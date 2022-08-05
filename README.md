@@ -25,7 +25,7 @@ For more detail you can read this link below.<br>
 
 My code is working on Python or **J**u**py**te**r** (**Julia**, **Python**, **R**) Notebook (.ipynb) so it means this code can run on python environment python
 
-## Structer of code
+## Structure of code
 
 ```python
 import bs4

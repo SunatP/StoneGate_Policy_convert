@@ -129,6 +129,8 @@ The funciton is similar to the previous class, espescially focuses on Nat Source
 
 ## Time Elapsed
 
+File input around 8xxxx lines
+
 |  Function | Time Elapsed  |
 |:---:|:---:|
 | inspection_entry | ~0.091 seconds |
